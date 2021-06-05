@@ -9,8 +9,8 @@ Other projects will come later.
 
 ## Projects
 
-- Zombie image CSS with animations
-- Animals animations CSS
+- [Zombie image CSS with animations](https://github.com/uchronieX/HTML-CSS/tree/master/zombie)
+- [Animals animations CSS](https://github.com/uchronieX/HTML-CSS/tree/master/animals.animation)
 
 
 ## Tech
